@@ -28,21 +28,21 @@ To learn process control, signals, monitoring, communication, synchronization, b
 ### **top** live processes, CPU, memory
 
 **OUTPUT :**
-![top output](top.png)
+![top output](./screenshots/top.png)
 
 ---
   
 ### **ps aux **   snapshot of all processes  
 
 **OUTPUT : **
-![psaux output](psaux.png)
+![psaux output](./screenshots/psaux.png)
 
 ---
 
 ### **uptime**  system load averages  
 
 **OUTPUT :**
-![uptime output](uptime.png)
+![uptime output](./screenshots/uptime.png)
 
 ---
 
@@ -54,7 +54,7 @@ To learn process control, signals, monitoring, communication, synchronization, b
 - `|` (pipe) → pass output of one command to another  
 
 **OUTPUT :**
-![pipe output](psaux|grepbash.png)
+![pipe output](./screenshots/psaux|grepbash.png)
 
 
 ---
