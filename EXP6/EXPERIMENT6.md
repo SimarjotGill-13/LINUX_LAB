@@ -1,4 +1,4 @@
-# EXPERIMENT 6 - SHELL PROGRAMMING 
+# EXPERIMENT 6 - SHELL PROGRAMMING (Loops,functions & Redirection)
 
 ## AIM : 
 To learn and practice loops, loop control,shell functions, and debugging in Bash.  

@@ -1,4 +1,4 @@
-# EXPERIMENT 7 - Shell Programming  
+# EXPERIMENT 7 - Shell Programming (Process management and scheduling) 
 
 ## AIM 
 To understand and use process management commands in Linux, including viewing 

@@ -1,4 +1,4 @@
-# EXPERIMENT 5 – SHELL PROGRAMMING
+# EXPERIMENT 5 – SHELL PROGRAMMING(Conditional statements & loops)
 
 ## AIM :
 To understand and implement **conditional statements, loops, and decision-making** in Bash by 

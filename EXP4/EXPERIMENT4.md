@@ -1,4 +1,4 @@
-# EXPERIMENT 4 – SHELL PROGRAMMING
+# EXPERIMENT 4 – SHELL PROGRAMMING(Basics)
 
 ## AIM : 
 To understand the fundamentals of Bash Shell Scripting by writing simple programs for printing messages, handling user input, performing arithmetic operations, and applying conditional logic.
