@@ -71,7 +71,7 @@ echo "Division: $((num1 / num2))"
 
 ---
 
-### TASK 4 - Voting Eligibility
+### **TASK 4 - Voting Eligibility**
 
 
 **SCRIPT (task4.sh)**
@@ -95,7 +95,7 @@ fi
 
 ---
 
-### **Observations**
+## **Observations**
 
 Task 1: Printed a simple message.
 
@@ -110,7 +110,7 @@ This experiment provided practical knowledge of writing and executing Bash shell
   performing calculations, and implementing decision-making using conditions.
    These skills form the foundation for advanced shell scripting.
 ---
-### **Conclusion**
+## **Conclusion**
 
 This experiment provided practical knowledge of writing and executing Bash shell
  scripts. It covered the basics of displaying messages, accepting user input,
