@@ -18,6 +18,9 @@ To understand the fundamentals of Bash Shell Scripting by writing simple program
 
 **SCRIPT (task1.sh):**
 ```bash
+#!/bin/bash
+echo "Hello, World!"
+
 ./task1.sh
 ```
 
@@ -31,6 +34,11 @@ To understand the fundamentals of Bash Shell Scripting by writing simple program
 
 **SCRIPT (task2.sh):**
 ```bash
+#!/bin/bash
+echo "Enter your name: "
+read name
+echo "Hello, $name! Welcome to Shell Scripting."
+
 ./task2.sh
 ```
 
@@ -44,6 +52,17 @@ To understand the fundamentals of Bash Shell Scripting by writing simple program
 
 **SCRIPT (task3.sh):**
 ```bash
+#!/bin/bash
+echo "Enter first number : "
+read num1
+echo "Enter second number : "
+read num2
+
+echo "Addition: $((num1 + num2))"
+echo "Subtraction: $((num1 - num2))"
+echo "Multiplication: $((num1 * num2))"
+echo "Division: $((num1 / num2))"
+
 ./task3.sh
 ```
 
@@ -57,6 +76,17 @@ To understand the fundamentals of Bash Shell Scripting by writing simple program
 
 **SCRIPT (task4.sh)**
 ```bash
+#!/bin/bash
+echo "Enter your age : "
+read age
+
+if [ $age -ge 18 ];
+then
+    echo "You are eligible to vote."
+else
+    echo "You are not eligible to vote."
+fi
+
 ./task4.sh
 ```
 

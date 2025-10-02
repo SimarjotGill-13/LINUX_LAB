@@ -1,7 +1,9 @@
 #!/bin/bash
 # Task 3: Arithmetic Operations
-read -p "Enter first number: " num1
-read -p "Enter second number: " num2
+echo "Enter first number : "
+read num1
+echo "Enter second number : "
+read num2
 
 echo "Addition: $((num1 + num2))"
 echo "Subtraction: $((num1 - num2))"
