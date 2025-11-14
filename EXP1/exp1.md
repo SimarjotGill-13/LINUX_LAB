@@ -70,7 +70,7 @@ Click **Continue** and **Save** the VM.
   - Create username & password  
   - Install updates and third-party software  
 
-![](./screenshots/play.png)
+- ![](./screenshots/play.png)
 
 ---
 
@@ -80,10 +80,11 @@ After installation, open Terminal using  and run:
 ```bash
 sudo apt update
 sudo apt upgrade
-![](./screenshots/screenshot3.png)
-
-
 ```
+
+- ![](./screenshots/screenshot3.png)
+
+
 ---
 
 ## Observations:
