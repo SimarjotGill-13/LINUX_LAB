@@ -32,7 +32,8 @@ To install UTM on macOS and set up a Linux operating system (Ubuntu) in a virtua
 ### Step 3: Install and Launch UTM
 - Drag **UTM.app** to the Applications folder.  
 - Open UTM from Launchpad.  
-- ![](./screenshots/screenshot1.png)
+
+-![](./screenshots/screenshot1.png)
 
 ---
 
@@ -43,8 +44,9 @@ To install UTM on macOS and set up a Linux operating system (Ubuntu) in a virtua
 
 ### Step 5: Attach Ubuntu ISO
 - Select **Boot from ISO Image**.  
-- Browse and choose `ubuntu-24.04.3-desktop-arm64.iso`.  
-- ![](./screenshots/screenshot2.png)
+- Browse and choose `ubuntu-24.04.3-desktop-arm64.iso`. 
+ 
+-![](./screenshots/screenshot2.png)
 
 ---
 
@@ -70,7 +72,7 @@ Click **Continue** and **Save** the VM.
   - Create username & password  
   - Install updates and third-party software  
 
-- ![](./screenshots/play.png)
+-![](./screenshots/play.png)
 
 ---
 
@@ -82,7 +84,7 @@ sudo apt update
 sudo apt upgrade
 ```
 
-- ![](./screenshots/screenshot3.png)
+-![](./screenshots/screenshot3.png)
 
 
 ---
