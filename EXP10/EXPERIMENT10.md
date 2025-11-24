@@ -56,13 +56,14 @@ To understand modular shell programming using functions, script sourcing, optimi
    ### **TASK 1 - String length**
    
    **SCRIPT (labex1.sh)**
+   
    ```bash
    #!/bin/bash
-echo "Enter a string:"
-read str
-echo "Length :${#str}"
+   echo "Enter a string:"
+   read str
+   echo "Length :${#str}"
 
-```
+   ```
 
 **OUTPUT :**
 ![Task1 output](./screenshots/labex1.png)
@@ -72,6 +73,7 @@ echo "Length :${#str}"
 ### **TASK 2 - Reverse String**
 
 **SCRIPT (labexii.sh)**
+
 ```bash
 #!/bin/bash
 echo "Enter a string:"

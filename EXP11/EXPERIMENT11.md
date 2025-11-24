@@ -47,7 +47,7 @@ fi
 ```
 
 **OUTPUT :**
-![Task2 output](./screenshots/labex.png)
+![Task2 output](./screenshots/labex2.png)
 
 ---
 
