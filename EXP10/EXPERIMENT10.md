@@ -61,6 +61,7 @@ To understand modular shell programming using functions, script sourcing, optimi
 echo "Enter a string:"
 read str
 echo "Length :${#str}"
+
 ```
 
 **OUTPUT :**
@@ -103,6 +104,7 @@ do
 rev="$rev${str:$i:1}"
 done
 echo "Reversed: $rev"
+
  ```
  
  **OUTPUT :**
